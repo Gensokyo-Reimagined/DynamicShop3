@@ -1,4 +1,5 @@
 Supported Minecraft versions: 1.16.5 ~ 1.21.8
+Using Java 21
 
 Free version https://www.spigotmc.org/resources/65603/
 
